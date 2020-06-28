@@ -5,7 +5,7 @@ tags: [k8s, kubernetes, cluster, kubectl]
 draft: false
 ---
 
-If you have more than one cluster as illustrated in <TODO>, you can change it using command:
+If you have more than one cluster as illustrated in https://ismael.casimpan.com/quicktasks-k8s/list-nodes-in-kubernetes/, you can change it using command:
 ```
 kubectl config use-context <cluster_name_here>
 ```
