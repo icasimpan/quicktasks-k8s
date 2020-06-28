@@ -11,7 +11,7 @@ user@example:~$ kubectl get nodes
 The connection to the server localhost:8080 was refused - did you specify the right host or port?
 ```
 
-Check for the `$KUBECONFIG` if set and `kubectl config view` output.
+Check for the "$KUBECONFIG" if set and "kubectl config view" output.
 Chances are, both are empty like below:
 ```
 user@example:~$ echo $KUBECONFIG
@@ -31,14 +31,14 @@ users: null
 In this example, we're using the DOKS or DigitalOcean Managed Kubernetes.
 
 To fix the problem:
-Get the config file and set the value of `$KUBECONFIG` to it.
+Get the config file and set the value of "$KUBECONFIG" to it.
 ```
 user@example:~$ export KUBECONFIG=./k8s-infra-kubeconfig.yaml 
 user@example:~$ echo $KUBECONFIG
 ./k8s-infra-kubeconfig.yaml
 ```
 
-and output of `kubectl config view` would also have something like below:
+and output of "kubectl config view" would also have something like below:
 ```
 user@example:~$ kubectl config view
 apiVersion: v1
