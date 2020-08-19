@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on K8s | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-k8s/tags/</link>
+    <description>Recent content in Tags on K8s | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-k8s/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>k8s</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/k8s/</link>
+      <pubDate>Wed, 19 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/kubernetes/</link>
+      <pubDate>Wed, 19 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pod</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/pod/</link>
+      <pubDate>Wed, 19 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/pod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/shell/</link>
+      <pubDate>Wed, 19 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/ssh/</link>
+      <pubDate>Wed, 19 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cluster</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/cluster/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disk</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/disk/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/disk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helm</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/helm/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubectl</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/kubectl/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/kubectl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodes</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/nodes/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pvc</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/pvc/</link>
+      <pubDate>Sun, 28 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/pvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doks</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/doks/</link>
+      <pubDate>Sat, 27 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/doks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>managed-kubernetes</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/managed-kubernetes/</link>
+      <pubDate>Sat, 27 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/managed-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>troubleshooting</title>
+      <link>https://ismael.casimpan.com/quicktasks-k8s/tags/troubleshooting/</link>
+      <pubDate>Sat, 27 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-k8s/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

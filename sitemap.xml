@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/post/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/k8s/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/kubernetes/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/pod/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/shell/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/shell-into-kubernetes-pod/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/ssh/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/</loc>
+    <lastmod>2020-08-19T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/adding-helm-repo/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/change-default-cluster-in-kubernetes/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/checking-pvc/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/cluster/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/disk/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/cluster-list-in-kubernetes/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/list-nodes-in-kubernetes/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/helm/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/install-using-helm/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/kubectl/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/nodes/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/pvc/</loc>
+    <lastmod>2020-06-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/connection-to-server-refused/</loc>
+    <lastmod>2020-06-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/doks/</loc>
+    <lastmod>2020-06-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/managed-kubernetes/</loc>
+    <lastmod>2020-06-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/tags/troubleshooting/</loc>
+    <lastmod>2020-06-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-k8s/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>
